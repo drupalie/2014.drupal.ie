@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2014.drupal.loc"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Drupal Open Days 2014 - Advanced</title>
+ <link>http://2014.drupal.loc/categories/session-level/advanced</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Multilingual in Drupal 8, and differences with Drupal 7</title>
+ <link>http://2014.drupal.loc/sessions/multilingual-drupal-8-and-differences-drupal-7</link>
+ <description>&lt;div class=&quot;field field--name-field-session-date field--type-datetime field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-05-17T12:15:00+01:00&quot;&gt;Saturday 17th, 12:15&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-presenter field--type-entityreference field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Presenter:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/users/luisrc7&quot;&gt;luisrc7&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-level field--type-taxonomy-term-reference field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Session Level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/categories/session-level/advanced&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Advanced&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-theme field--type-taxonomy-term-reference field--label-inline clearfix&quot;&gt;&lt;div class=&quot;field__label&quot;&gt;Session Theme:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;a href=&quot;/categories/session-theme/drupal-development&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;p&gt;In this session you will get an overview of how multilingual works in Drupal 8, how to configure it and how to get a fully working multilingual website in only a few simple steps.&lt;/p&gt;
+&lt;p&gt;I will cover the differences between drupal 7 multilingual and the new multilingual in Drupal 8 and how in Drupal 8 is much more easy to achieve a satisfactory result.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-field-session-slides field--type-file field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://2014.drupal.loc/sites/drupal_open_days_2014/files/slides/Multilingual_in_Drupal_8.pdf&quot; type=&quot;application/pdf; length=2453854&quot;&gt;Slides&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 14 Feb 2014 11:27:28 +0000</pubDate>
+ <dc:creator>luisrc7</dc:creator>
+ <guid isPermaLink="false">59 at http://2014.drupal.loc</guid>
+</item>
+</channel>
+</rss>

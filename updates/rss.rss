@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://2014.drupal.loc/updates/rss" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Updates</title>
+    <link>http://2014.drupal.loc/updates/rss</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Presentations for the sessions now available</title>
+    <link>http://2014.drupal.loc/content/presentations-sessions-now-available</link>
+    <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Presentations for most of the sessions are now available. Goto the &lt;a href=&quot;/schedule&quot;&gt;schedule page&lt;/a&gt; and click on the &quot;slide&quot; icon next to the presentation.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 03 Jun 2014 08:41:02 +0000</pubDate>
+ <dc:creator>Mark Horgan</dc:creator>
+ <guid isPermaLink="false">179 at http://2014.drupal.loc</guid>
+  </item>
+  <item>
+    <title>Thank you</title>
+    <link>http://2014.drupal.loc/content/thank-you</link>
+    <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Thanks to everyone for coming along. Next Irish event in Portumna, Co. Galway in November - details to follow - see &lt;a href=&quot;http://groups.drupal.org/ireland&quot;&gt;Drupal Ireland Group&lt;/a&gt; for more updates.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 17 May 2014 22:59:57 +0000</pubDate>
+ <dc:creator>alanburke</dc:creator>
+ <guid isPermaLink="false">177 at http://2014.drupal.loc</guid>
+  </item>
+  <item>
+    <title>Last minute questions?</title>
+    <link>http://2014.drupal.loc/content/last-minute-questions</link>
+    <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot; property=&quot;content:encoded&quot;&gt;If you can&#039;t make up your mind as to whether to attend, or you have any other questions, you can contact the event organiser, Alan Burke, or 087 2452130, or email alan@annertech.com&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 May 2014 17:45:37 +0000</pubDate>
+ <dc:creator>alanburke</dc:creator>
+ <guid isPermaLink="false">175 at http://2014.drupal.loc</guid>
+  </item>
+  <item>
+    <title>Nearly there!</title>
+    <link>http://2014.drupal.loc/content/nearly-there</link>
+    <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Just a few days to go now! We&#039;re pretty much ready, and almost full. So if you&#039;re still considering whether to come, best go ahead and sign up now. We&#039;re looking forward to some great presentations, and catching up with old and new friends. &lt;/p&gt;
+&lt;p&gt;See you all on Friday &lt;/p&gt;
+&lt;p&gt;Alan&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 May 2014 13:03:52 +0000</pubDate>
+ <dc:creator>alanburke</dc:creator>
+ <guid isPermaLink="false">165 at http://2014.drupal.loc</guid>
+  </item>
+  <item>
+    <title>Drupal Open Days 2014 Website Launched</title>
+    <link>http://2014.drupal.loc/content/drupal-open-days-2014-website-launched</link>
+    <description>&lt;div class=&quot;field field--name-field-news-item-image field--type-image field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://2014.drupal.loc/sites/drupal_open_days_2014/files/styles/news_item_image/public/news_items/drupal-open-days-2014-screenshot.png?itok=gfOmUJqw&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We&#039;re proud of it, awfully proud of it - the website for Drupal Open Days 2014 has just been completed.&lt;/p&gt;
+&lt;p&gt;The Drupal Ireland Association would like to thank Mark Conroy for building (a lot of) the backend, and Mark Horgan for completing the backend, all of the front end, and Jochen Illich from Freistil Box for sponsoring the hosting for us.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 11 Feb 2014 20:43:22 +0000</pubDate>
+ <dc:creator>Mark Conroy</dc:creator>
+ <guid isPermaLink="false">47 at http://2014.drupal.loc</guid>
+  </item>
+  <item>
+    <title>Drupal Open Days 2014 Announced</title>
+    <link>http://2014.drupal.loc/content/drupal-open-days-2014-announced</link>
+    <description>&lt;div class=&quot;field field--name-field-news-item-image field--type-image field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://2014.drupal.loc/sites/drupal_open_days_2014/files/styles/news_item_image/public/news_items/slide1.jpg?itok=BUoUoFVR&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;&lt;div class=&quot;field__items&quot;&gt;&lt;div class=&quot;field__item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The (newly rebranded) Drupal Ireland 2014 will take place in May of this year in Dublin, venue and date to be confirmed (confirmed now for May 16th/17th at the Guinness Enterprise Center).&lt;/p&gt;
+&lt;p&gt;A small but talented cabal of people are talking on the work of organising the event, but we have room for more. If you&#039;d like to get involved, in any small way, just let me know. The more the merrier.&lt;/p&gt;
+&lt;p&gt;More details of the event will be available soon.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 11 Feb 2014 20:41:22 +0000</pubDate>
+ <dc:creator>Mark Conroy</dc:creator>
+ <guid isPermaLink="false">45 at http://2014.drupal.loc</guid>
+  </item>
+  </channel>
+</rss>
